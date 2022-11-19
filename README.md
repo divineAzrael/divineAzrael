@@ -1,5 +1,5 @@
 - Hello, I’m Dorian
-- I am interested in artificial intelligence and also Cryptography
+- I am interested in artificial intelligence and also Cryptography, as well as in web applications and programming of MCU
 
 
 <!---
